@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - action_area
+  - ladder
+  - dialogue_area
+  - asteroid
+  - black hole
+  - win
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Wall
+  - Ground
+  - Paint
+  - Terrain
+  - ActionArea
+  - Ladder
+  - DialogueArea
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 1395803789
+    locked: 0
+  - name: Stars
+    uniqueID: 903091845
+    locked: 0
+  - name: Terrain
+    uniqueID: 1121193537
+    locked: 0
+  - name: Action Area
+    uniqueID: 3240189701
+    locked: 0
+  - name: Items
+    uniqueID: 1087657515
+    locked: 0
+  - name: Player
+    uniqueID: 994967343
+    locked: 0
+  - name: Sketchpad
+    uniqueID: 3578058157
+    locked: 0
+  - name: Drawing
+    uniqueID: 277852351
+    locked: 0
+  - name: Rock
+    uniqueID: 4150646601
+    locked: 0
+  - name: Dark Matter
+    uniqueID: 3789270195
+    locked: 0
+  - name: Textbox
+    uniqueID: 3964722427
+    locked: 0
+  - name: Mouse
+    uniqueID: 3776455665
+    locked: 0
